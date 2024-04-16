@@ -39,9 +39,7 @@ python quick_qspr.py -in your_data.csv -x smi -y tg -o your_model
 ## References
 
 1. **Machine learning discovery of high-temperature polymers**  
-   - **Authors**: Lei Tao, Guang Chen, Ying L   
    - [Link to Paper](https://www.cell.com/patterns/pdfExtended/S2666-3899(21)00039-8)
 
 2. **Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition**  
-   - **Authors**: Sabrina JaegerOrcid, Simone FulleOrcid, and Samo TurkOrcid  
    - [Link to Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00616)
